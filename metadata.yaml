@@ -1,11 +1,16 @@
 _repo: How-it-Flies-or-Conquest-of-the-Air-The-Story-of-Man-s-Endeavors-to-Fly-and-of-the-Inventions__55268
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55268-h/images/cover.jpg
 creator:
   author:
     agent_name: Ferris, Richard
     gutenberg_agent_id: '48255'
     url: http://www.gutenberg.org/2009/agents/48255
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55268#How-it-Flies-or-Conquest-of-the-Air-The-Story-of-Man-s-Endeavors-to-Fly-and-of-the-Inventions_
 gutenberg_issued: '2017-08-05'
 gutenberg_type: Text
 identifiers:
